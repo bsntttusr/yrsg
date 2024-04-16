@@ -1,0 +1,16 @@
+job_id,skill_id,job_name,company_name
+JB101,SK08,Developer IV,Daugherty and Sons
+JB102,SK09,Graphic Designer,Kilback-Stamm
+JB103,SK10,Junior Executive,Schamberger and Sons
+JB114,SK21,Dental Hygienist,Cormier-Emard
+JB119,SK26,Nurse Practicioner,Ortiz Group
+JB120,SK27,Registered Nurse,Hirthe and Sons
+JB121,SK28,Research Nurse,"Daniel, Terry and Dare"
+JB122,SK29,Speech Pathologist,"VonRueden, Green and Keeling"
+JB123,SK30,Help Desk Operator,"Jenkins, Koepp and Zemlak"
+JB124,SK31,Help Desk Technician,"Schaefer, Romaguera and Walker"
+JB125,SK32,Executive Secretary,Graham-Zboncak
+JB126,SK33,Human Resources Assistant I,"Ward, Buckridge and Haag"
+JB127,SK34,Human Resources Assistant III,Connelly Group
+JB128,SK01,Professor,Berge Inc
+JB129,SK02,Teacher,"Rippin, Lynch and Bode"
